@@ -11,30 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Astronomy, Peking University, 2014
+* Ph.D in Astronomy and Astrophysics, The University of Arizona, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-, Harlan J. Smith McDonald Observatory Postdoc Fellow
+  * The Unversity of Texas at Austin/McDonald Observatory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Service and leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020 NASA FINESST Fellowship Reviewer
+* HST Cycle 27 Mid-Cycle Proposal Reviewer
+* Referee for AAS Journals, A\&A
+* 2018 Steward Observatory graduate admission committee member
+
+Awards
+=====
+* 2015--2018, **NESSF fellowship** NASA Earth and Space Science Fellowship
+* 2015--2016, **TRIF Fellowship**
+* 09/2013 **First Lin-Qiao Prize** for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University \& KIAA
+
+Funding and Accepted Proposals
+=====
+
+- Co-I, HST Cycle 28 (GO16302), 
+*Accretion Rates as a Diagnostic Tool for the Origin of Planetary-mass Companions*
+  
+- PI, HST Cycle 27 (GO16036), 
+*Mapping Clouds on a Variable Planetary-Mass Companion*
+  
+- PI, HST Cycle 27 (GO15830), 
+*A Planet is Born: Investigating the Accretion Process of PDS70b with WFC3/UVIS Direct Imaging Observations*
+
+- PI, Spitzer DDT program (14312), 
+*Rotational modulations of a highly variable planetary-mass companion*
+
+- Co-I, HST Cycle 27 (GO15947), 
+*Dancing with the Dwarfs: Very High Quality Spatial and Spectral Maps of Hot Jupiters Proxies*
+  
+- PI, HST Cycle 25 (AR15060), 
+*Unleashing the Charges: An Improved Reduction of Key Exoplanet Datasets and a Tool for Ramp Effect Correction*
+
+- Co-I, HST Cycle 25
+*Now You See Me -- the \mbox{WASP-117b} Version*
+
+- Co-I, HST Cycle 23 (GO14241),
+*Cloud Atlas: Vertical Cloud Structure and Gravity in Exoplanet and Brown Dwarf Atmospheres*
+
 
 Publications
 ======
@@ -48,12 +73,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
