@@ -60,16 +60,3 @@ Funding and Accepted Proposals
 - Co-I, HST Cycle 23 (GO14241),
 *Cloud Atlas: Vertical Cloud Structure and Gravity in Exoplanet and Brown Dwarf Atmospheres*
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
