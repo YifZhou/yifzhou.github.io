@@ -29,4 +29,13 @@ author_profile: true
   
 * **Other publications**
   8. Strong Near-infrared Spectral Variability of the Young Cloudy L Dwarf Companion VHS J1256-1257 b, Bowler, Zhou et al., *ApJL*, 893L:30, Apr 2020
-  9. Cloud Atlas: Variability in and out of the Water Band in the Planetary-mass HD 203030B Points to Cloud Sedimentation in Low-gravity L Dwarfs, Miles-P\'aez, Apai, Metchev, Zhou et al., *ApJ*, 883:181, Oct 2019
+  9. Cloud Atlas: Variability in and out of the Water Band in the Planetary-mass HD 203030B Points to Cloud Sedimentation in Low-gravity L Dwarfs, Miles-Paez, Apai, Metchev, Zhou et al., *ApJ*, 883:181, Oct 2019  
+  10. Cloud Atlas: Rotational Spectral Modulations and Potential Sulfide Clouds in the Planetary-mass, Late T-type Companion Ross 458C, Manjavacas, Apai, Lew, Zhou et al., *ApJL*, 875:L15, Apr 2019
+  
+  11. Cloud Atlas: Hubble Space Telescope Near-Infrared Spectral Library of Brown Dwarfs, Planetary-Mass Companions, And Hot Jupiters, Manjavacas, Apai, Zhou, et al. *AJ*, 157:101, Feb 2019
+  12. The near-infrared transmission spectra of trappist-1 planets b, c, d, e, f, and g and stellar contamination in multi-epoch transit spectra, Zhang, Zhou, Rackham, and Apai, *AJ*, 156, 178, Cct 2018.
+  13. Helium in the eroding atmosphere of an exoplanet, Spake et al. (incl. Zhou). *Nature*, 557:68--70, May 2018.
+  14. Cloud Atlas: Discovery of Rotational Spectral Modulations in a
+  Low-mass, L-type Brown Dwarf Companion to a Star, Manjavacas, Apai, Zhou, Karalidi, Lew, et~al., *AJ*, 155(1):11, Dec 2017
+  15. Cloud Atlas: Discovery of Patchy Clouds and High-Amplitude
+  Rotational Modulations in a Young, Extremely Red L-Type Brown Dwarf, Lew, Apai, Zhou, Schneider, et al., *ApJL*, 829(2):L32, Sep 2016
