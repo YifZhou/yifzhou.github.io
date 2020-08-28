@@ -15,6 +15,7 @@ url                      : "https://yifanzhou.space"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yifzhou/yifzhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : site-logo.png
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,9 +83,9 @@ analytics:
 author:
   name             : "Yifan Zhou"
   avatar           : "profile.jpeg"
-  bio              : "Harlan J. Smith McDonald Observatory Postdoc Fellow"
+  bio              : "Harlan J. Smith McDonald Observatory Postdoc Fellow <br><br> <a style='color: black;' href='https://www.as.utexas.edu'> Department of Astronomy<br>McDonald Observatory,<br> UT Austin </a>"
   location         : "Austin, TX, USA"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "yifan.zhou@utexas.edu"
@@ -322,4 +323,5 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"

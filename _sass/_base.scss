@@ -13,7 +13,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.6;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -58,7 +58,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+    margin-bottom: 1.3em;
 }
 
 u,
@@ -93,18 +93,19 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-  margin: 2em 1em 2em 0;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-style: italic;
-  border-left: 0.25em solid $primary-color;
-
-  cite {
+    margin: 2em 1em 2em 0;
+    line-height: 1.2;
+    padding-left: 1em;
+    padding-right: 1em;
     font-style: italic;
+    border-left: 0.25em solid $primary-color;
+
+    cite {
+        font-style: italic;
 
     &:before {
-      content: "\2014";
-      padding-right: 5px;
+        content: "\2014";
+        padding-right: 5px;
     }
   }
 }
@@ -164,7 +165,8 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
+    padding-bottom: 0em;
 }
 
 li ul,

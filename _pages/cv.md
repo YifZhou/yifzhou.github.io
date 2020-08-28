@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[For PDF version, please download it from here.](/assets/files/cv.pdf "cv.pdf")
+[For PDF version, please download it from here.](/files/files/cv.pdf "cv.pdf")
 
 Education
 ======
