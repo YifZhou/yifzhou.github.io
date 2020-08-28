@@ -5,10 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-# Rotation modulations of brown dwarfs and planetary-mass companions
+{% include base_path %}
 
-# Accretion onto giant young exoplanets
-
-# Exoplanet transmission spectroscopy
-
-# New observation and data reduction techniques
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
