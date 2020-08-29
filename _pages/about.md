@@ -9,7 +9,7 @@ redirect_from:
 ---
 
  <img src="/images/HSTandMe_lowQ.jpg" width=300 style='float:right;margin:5px 30px'>
-My name is Yifan Zhou. I am a Harlan J. Smith McDoanld Observatory postdoctoral fellow at [UT Austin](https://astronomy.utexas.edu "Department of Astronomy, UT Austin"). I got my Ph.D. in Astronomy and Astrophysics from [Steward Observatory/Unversity of Arizona](https://www.as.arizona.edu "Steward Observatory, Department of Astronomy/University of Arizona") in 2019, working with Prof. Daniel Apai.
+My name is Yifan Zhou. I am a Harlan J. Smith McDoanld Observatory postdoctoral fellow at [UT Austin](https://astronomy.utexas.edu "Department of Astronomy, UT Austin"). I got my Ph.D. in Astronomy and Astrophysics from [Steward Observatory/Unversity of Arizona](https://www.as.arizona.edu "Steward Observatory, Department of Astronomy/University of Arizona") in 2019, working with [Prof. Daniel Apai](https://distantearths.com).
 <br/><br/>
 
 I am interested in the formation and atmospheric characterizations of exoplanets and brown dwarfs. For my thesis study, I pioneered in using Hubble Space Telescope to monitor the photometric and spectroscopic variabilies of brown dwarf and planetary mass companions. These observations delivered rich information about the patchy cloud coverages, atmospheric circulations, and angular momentum of substellar objects. 
