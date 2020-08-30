@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[For PDF version, please download it from here.](/files/files/cv.pdf "cv.pdf")
+[For PDF version, please download it from here.](/files/cv.pdf "cv.pdf")
 
 Education
 ======
-* B.S. in Astronomy, Peking University, 2014
 * Ph.D in Astronomy and Astrophysics, The University of Arizona, 2019
+* B.S. in Astronomy, Peking University, 2014
 
 Work experience
 ======
