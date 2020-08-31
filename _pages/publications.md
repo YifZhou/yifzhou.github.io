@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[Please checkout my latest publication list at ADS.](https://ui.adsabs.harvard.edu/#search/p_=0&q=orcid%3A0000-0003-2969-6040&sort=date%20desc%2C%20bibcode%20desc "NASA/ADS")
+[Please find my latest publication list at ADS.](https://ui.adsabs.harvard.edu/#search/p_=0&q=orcid%3A0000-0003-2969-6040&sort=date%20desc%2C%20bibcode%20desc "NASA/ADS")
 
 * **First-author publications**
   1. **Spectral Variability of VHS J1256–1257b from 1 to 5 μm**, *AJ*, 160:77, Jul 2020         
