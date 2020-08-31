@@ -16,13 +16,13 @@ Education
 * Ph.D in Astronomy and Astrophysics, The University of Arizona, 2019
 * B.S. in Astronomy, Peking University, 2014
 
-Work experience
+Work Experience
 ======
 * 2019-, Harlan J. Smith McDonald Observatory Postdoc Fellow
   * The Unversity of Texas at Austin/McDonald Observatory
 
   
-Service and leadership
+Service and Leadership
 ======
 * 2020 NASA FINESST Fellowship Reviewer
 * HST Cycle 27 Mid-Cycle Proposal Reviewer
