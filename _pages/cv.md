@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[For PDF version, please download it from here.](/files/cv.pdf "cv.pdf")
+[PDF Version](/files/cv.pdf "cv.pdf")
 
 Education
 ======
@@ -18,47 +18,46 @@ Education
 
 Work Experience
 ======
-* 2019-, Harlan J. Smith McDonald Observatory Postdoc Fellow
+* 2021-, 51 Pegasi b Fellow
+  * University of Texas at Austin
+* 2019-2021, Harlan J. Smith McDonald Observatory Postdoc Fellow
   * The Unversity of Texas at Austin/McDonald Observatory
 
   
 Service and Leadership
 ======
 * 2020 NASA FINESST Fellowship Reviewer
-* HST Cycle 27 Mid-Cycle Proposal Reviewer
+* HST Proposal Reviewer (Cycles 27, 29, 30)
 * Referee for AAS Journals, A&A
-* 2018 Steward Observatory graduate admission committee member
+* Graduate admission committee (University of Arizona, UT Austin)
 
 Awards
 =====
+* 2021--2024, **51 Pegasi b Fellow**
+* 2019--2021, **Harlan J. Smith Fellow**
 * 2015--2018, **NESSF fellowship** NASA Earth and Space Science Fellowship
 * 2015--2016, **TRIF Fellowship**
 * 09/2013 **First Lin-Qiao Prize** for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University & KIAA
 
-Funding and Accepted Proposals
+Funding and Accepted Proposals (as PIs)
 =====
+- HST Cycle 30 (GO-17168)
+*ConfirmingtheProtoplanetCandidateABAurbwithAccretionLightEchoes (co-PI)*
 
-- Co-I, HST Cycle 28 (GO16302), 
-*Accretion Rates as a Diagnostic Tool for the Origin of Planetary-mass Companions*
-  
-- PI, HST Cycle 27 (GO16036), 
+- HST Cycle 29 (GO16651), 
+*A Search for Accreting Protoplanets within Transition Disk Gaps*
+
+- HST Cycle 27 (GO16036), 
 *Mapping Clouds on a Variable Planetary-Mass Companion*
   
-- PI, HST Cycle 27 (GO15830), 
+- HST Cycle 27 (GO15830), 
 *A Planet is Born: Investigating the Accretion Process of PDS70b with WFC3/UVIS Direct Imaging Observations*
 
-- PI, Spitzer DDT program (14312), 
-*Rotational modulations of a highly variable planetary-mass companion*
-
-- Co-I, HST Cycle 27 (GO15947), 
-*Dancing with the Dwarfs: Very High Quality Spatial and Spectral Maps of Hot Jupiters Proxies*
-  
-- PI, HST Cycle 25 (AR15060), 
+- HST Cycle 25 (AR15060), 
 *Unleashing the Charges: An Improved Reduction of Key Exoplanet Datasets and a Tool for Ramp Effect Correction*
 
-- Co-I, HST Cycle 25
-*Now You See Me -- the WASP-117b Version*
-
-- Co-I, HST Cycle 23 (GO14241),
-*Cloud Atlas: Vertical Cloud Structure and Gravity in Exoplanet and Brown Dwarf Atmospheres*
-
+- Spitzer DDT program (14312), 
+*Rotational modulations of a highly variable planetary-mass companion*
+  
+- NASA/Keck 2021A, 
+*The Angular Momentum Archetecture of the VHS1256 Planetary System.*
