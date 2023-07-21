@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <img src="/images/HSTandMe_lowQ.jpg" width=300 style='float:right;margin:5px 30px'> 
 
-I'm moving! Starting from Aug 25, I will be an assistant professor at the University of Virginia. I'm actively recruiting students/postdocs. If you are interested in exoplanets, brown dwarfs, planet formation and characterizaton, and high-contrast imaging observations, please drop me a line.
+I'm moving! Starting from Aug 25, I will be an assistant professor at the University of Virginia. I'm actively recruiting students/postdocs. If you are interested in exoplanets, brown dwarfs, planet formation and characterizaton, and high-contrast imaging observations, please drop me a line.<br/><br/>
 
 My name is Yifan Zhou. I am a 51 Pegasi b fellow at [UT Austin](https://astronomy.utexas.edu "Department of Astronomy, UT Austin"). I got my Ph.D. in Astronomy and Astrophysics from [Steward Observatory/Unversity of Arizona](https://www.as.arizona.edu "Steward Observatory, Department of Astronomy/University of Arizona") in 2019, working with [Prof. Daniel Apai](https://distantearths.com).<br/><br/>
 
