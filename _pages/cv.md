@@ -11,17 +11,19 @@ redirect_from:
 
 [PDF Version](/files/cv.pdf "cv.pdf")
 
+Work Experience
+======
+* 2023-, Assistant Professor
+  * University of Virginia
+* 2021-2023, 51 Pegasi b Fellow
+  * University of Texas at Austin
+* 2019-2021, Harlan J. Smith McDonald Observatory Postdoc Fellow
+  * The Unversity of Texas at Austin/McDonald Observatory
+
 Education
 ======
 * Ph.D in Astronomy and Astrophysics, The University of Arizona, 2019
 * B.S. in Astronomy, Peking University, 2014
-
-Work Experience
-======
-* 2021-, 51 Pegasi b Fellow
-  * University of Texas at Austin
-* 2019-2021, Harlan J. Smith McDonald Observatory Postdoc Fellow
-  * The Unversity of Texas at Austin/McDonald Observatory
 
   
 Service and Leadership
@@ -33,7 +35,7 @@ Service and Leadership
 
 Awards
 =====
-* 2021--2024, **51 Pegasi b Fellow**
+* 2021--2023, **51 Pegasi b Fellow**
 * 2019--2021, **Harlan J. Smith Fellow**
 * 2015--2018, **NESSF fellowship** NASA Earth and Space Science Fellowship
 * 2015--2016, **TRIF Fellowship**
@@ -42,7 +44,7 @@ Awards
 Funding and Accepted Proposals (as PIs)
 =====
 - HST Cycle 30 (GO-17168)
-*ConfirmingtheProtoplanetCandidateABAurbwithAccretionLightEchoes (co-PI)*
+*Confirming the Protoplanet Candidate ABAur b with Accretion Light Echoes (co-PI)*
 
 - HST Cycle 29 (GO16651), 
 *A Search for Accreting Protoplanets within Transition Disk Gaps*
