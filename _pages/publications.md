@@ -7,7 +7,7 @@ author_profile: true
 
 * **First-author publications**
   1. **Roaring Storms in the Planetary-Mass Companion VHS 1256-1257 b:**    
-      **Hubble Space Telescope Multi-epoch Monitoring Reveals Vigorous Evolution in an Ultra-cool Atmosphere**, *AJ*, submitted
+      **Hubble Space Telescope Multi-epoch Monitoring Reveals Vigorous Evolution in an Ultra-cool Atmosphere**, *AJ*, 164.6:239, Dec 2022
       
   2. **HST/WFC3 H-alpha Direct-imaging Detection of a Pointlike Source in the Disk Cavity of AB Aur**, *ApJL*, 934:L13, July 2022
   
@@ -21,16 +21,11 @@ author_profile: true
   
   7. **Cloud Atlas: High-Contrast Time-Resolved Observations of Planetary-Mass Companions**, *AJ*, 157:128, Jan 2019    
   
-  8. **Cloud Atlas: Rotational Modulations in the L/T Transition Brown
-  Dwarf Companion HN Peg B**, *AJ*, 155(3):132, Jan 2018    
+  8. **Cloud Atlas: Rotational Modulations in the L/T Transition Brown Dwarf Companion HN Peg B**, *AJ*, 155(3):132, Jan 2018    
   
-  9. **A Physical Model-based Correction for Charge Traps in the Hubble
-  Space Telescope's Wide Field Camera 3 Near-IR Detector and Applications to
-  Transiting Exoplanets and Brown Dwarfs**, *AJ*, 153(6):243, Mar 2017    
+  9. **A Physical Model-based Correction for Charge Traps in the Hubble Space Telescope's Wide Field Camera 3 Near-IR Detector and Applications to Transiting Exoplanets and Brown Dwarfs**, *AJ*, 153(6):243, Mar 2017    
   
-  10. **Discovery Of Rotational Modulations in the Planetary-Mass Companion
-  2M1207b: Intermediate Rotation Period and Heterogeneous Clouds in a Low
-  Gravity Atmosphere**, *ApJ*, 818(2):176, Feb 2016        
+  10. **Discovery Of Rotational Modulations in the Planetary-Mass Companion 2M1207b: Intermediate Rotation Period and Heterogeneous Clouds in a Low Gravity Atmosphere**, *ApJ*, 818(2):176, Feb 2016        
   
   11. **Accretion onto Planetary Mass Companions of Low-Mass Young Stars**, *ApJL*, 783(1):L17, Feb 2014    
   
