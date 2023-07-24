@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Dr. Yifan Zhou -- Assistant Professor of Astronomy"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/HSTandMe_lowQ.jpg" width=300 style='float:right;margin:5px 30px'>  I'm moving! Starting from Aug 25, I will be an assistant professor at the University of Virginia. I'm actively recruiting students/postdocs. If you are interested in exoplanets, brown dwarfs, planet formation and characterizaton, and high-contrast imaging observations, please drop me a line.<br/><br/>
+<img src="/images/Me_working.jpeg" width=300 style='float:right;margin:5px 30px'>  I am an assistant professor at the Department of Astronomy at the University of Virginia. **I'm eagerly looking for students and postdocs to join my team.** <br/><br/>
 
-My name is Yifan Zhou. I am a 51 Pegasi b fellow at [UT Austin](https://astronomy.utexas.edu "Department of Astronomy, UT Austin"). I got my Ph.D. in Astronomy and Astrophysics from [Steward Observatory/Unversity of Arizona](https://www.as.arizona.edu "Steward Observatory, Department of Astronomy/University of Arizona") in 2019, working with [Prof. Daniel Apai](https://distantearths.com).<br/><br/>
+My research focuses on unraveling the formation and atmospheric properties of planets. As an observational astronomer, I use the most advanced space and grand-based telescopes to search for protoplanets, characterize planetary atmosphere, and map the evolutionary pathways of plaentary systems. I am passionate about developing innovative observational programs that further our understanding of planetary systems. I am the principal investigator of observation programs with the most powerful telescopes, such as the James Webb Space Telescope, Hubble Space Telescope, and Keck Telescope observation programs. Please check out the [research page](/research/) for more details about these projects! <br/><br/>
 
-I am interested in the formation and atmospheric properties of exoplanets and brown dwarfs. For my Ph.D. thesis, I studied the photometric and spectroscopic variability of brown dwarf and planetary-mass companions using Hubble Space Telescope observations. My research advanced our understanding of the patchy cloud coverages, atmospheric circulations, and angular momentum of substellar objects. I also developed new techniques for high-precision Hubble Space Telescope time-series observations and applied them to spectroscopic observations of transiting exoplanets. At UT Austin and McDonald Observatory, I am collaborating with [Prof. Brendan Bowler](http://www.as.utexas.edu/~bpbowler/), Prof. Caroline Morley, and Prof. Adam Kraus on multiple projects related to planet formation and characterizations. Please check out the [research page](/research/) for more details about these projects!
+If you're fascinated by exoplanets, planet formation, and high-contrast imaging observations, let's work together! Please reach out to me, and let's embark on this cosmic adventure as a team!
+
+

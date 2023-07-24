@@ -30,7 +30,7 @@ Service and Leadership
 ======
 * 2020 NASA FINESST Fellowship Reviewer
 * HST Proposal Reviewer (Cycles 27, 29, 30)
-* Referee for AAS Journals, A&A
+* Referee for AAS Journals, A&A, MNRAS, Nature Astronomy
 * Graduate admission committee (University of Arizona, UT Austin)
 
 Awards
@@ -41,8 +41,11 @@ Awards
 * 2015--2016, **TRIF Fellowship**
 * 09/2013 **First Lin-Qiao Prize** for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University & KIAA
 
-Funding and Accepted Proposals (as PIs)
+Funded projects (as PIs)
 =====
+- HST Cycle 30 (GO-17280)
+*c*
+
 - HST Cycle 30 (GO-17168)
 *Confirming the Protoplanet Candidate ABAur b with Accretion Light Echoes (co-PI)*
 
