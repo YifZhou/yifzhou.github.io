@@ -43,8 +43,14 @@ Awards
 
 Funded projects (as PIs)
 =====
-- HST Cycle 30 (GO-17280)
-*c*
+- JWST Cycle 2 (GO-03181)      
+*Monitor a variable planetary mass companion with NIRSpec IFU*
+
+- JWST Cycle 2 (GO-03375)    
+*Dancing 1 - 14 micron spectra to solve the cloudy and chemical puzzle of brown dwarf variability (co-PI)*
+
+- HST Cycle 30 (GO-17280)    
+*Validating and Characterizing the Protoplanet Candidate AB Aur b with WFC3/UVIS UV and Optical Photometry*
 
 - HST Cycle 30 (GO-17168)
 *Confirming the Protoplanet Candidate ABAur b with Accretion Light Echoes (co-PI)*
@@ -63,6 +69,12 @@ Funded projects (as PIs)
 
 - Spitzer DDT program (14312), 
 *Rotational modulations of a highly variable planetary-mass companion*
+
+- NASA/Keck 2023B      
+*High-contrast imaging observations of substellar companions of an accelerating star*
+
+- NASA/Keck 2023B    
+*Characterizing the Atmosphere of a Benchmark T Dwarf Companion*
   
 - NASA/Keck 2021A, 
 *The Angular Momentum Archetecture of the VHS1256 Planetary System.*
