@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -53,7 +53,7 @@ Funded projects (as PIs)
 *Validating and Characterizing the Protoplanet Candidate AB Aur b with WFC3/UVIS UV and Optical Photometry*
 
 - HST Cycle 30 (GO-17168)
-*Confirming the Protoplanet Candidate ABAur b with Accretion Light Echoes (co-PI)*
+*Confirming the Protoplanet Candidate AB Aur b with Accretion Light Echoes (co-PI)*
 
 - HST Cycle 29 (GO16651), 
 *A Search for Accreting Protoplanets within Transition Disk Gaps*
