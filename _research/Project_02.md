@@ -1,10 +1,17 @@
 ---
 layout: archive
-title: "The Accretion Processes in the Formation of Giant Exoplanets"
-excerpt: I study the formation of giant exoplanets by watching them growing!<br/><img src="/images/accretion_art.jpg" width=400 style='vertical-align:bottom;margin:5px 5px;display:block'>
+title: "Search and characterize young planets with high-contrast imaging observations."
+excerpt: Uncovering the formation and evolution of gas giant planets using direct-imaging techniques.<br/><img src="/images/accretion_art.jpg" width=400 style='vertical-align:bottom;margin:5px 5px;display:block'>
 permalink: /research/accretion/
 author_profile: true
 ---
+
+## Projects
+**1. HALPHA**
+
+**2. Directly probing accretion onto protoplanets with a multi-wavelength approach.**
+
+**3. Characterize benchmark gas giant planets.**
 
 Accretion rate is a critical parameter for studying planet formation. Discoveries of planets that are still in formation processes allow us to constrain the accretion rate with observations.
 
@@ -15,4 +22,3 @@ I worked with Prof. Gregory Herczeg to measure accretion rates of a few planetar
 <img src="/images/PDS70_intro.png" width=1000 style='vertical-align:top;margin:5px 5px;display:block'>
 
 Currently, I am leading a team to observe the PDS70 system in H-alpha and UV. We are conducting angular differential imaging observations with HST and aim to obtain the images of PDS70b(c) in the F656N and F336W bands. If successful, this experiment will provide the first-ever exoplanet image in the UV band. Then these observations will allow us to accurately determine the mass accretion rate onto PDS70b(c).
-
