@@ -1,20 +1,19 @@
 ---
 layout: archive
-title: "Transiting Exoplanets and Their Atmospheric Compositions"
-excerpt: I explore the diverse exoplanet worlds with transmission spectroscopy.<br/><img src="/images/transit_sketch.jpeg" width=400 style='vertical-align:bottom;margin:5px 5px;display:block'>
-permalink: /research/tansmission/
+title: "New Methods in Exoplanet Observations"
+excerpt: More efficiency, greater precision, higher contrast, and beyond!<br/><img src="/images/Hubble.jpg" width=400 style='vertical-align:bottom;margin:5px 5px;display:block'>
+permalink: /research/techniques/
 author_profile: true
 ---
 
-So far (Aug 2020), more than 75% (3191/4201) of exoplanets are discovered by transit. Transmission spectroscopy is the most popular method for studying the atmospheres of exoplanets. I contributed to a few studies with my expertise in high-precision Hubble Space Telescope (HST) time-series observations.
+I am an experienced user of the Hubble Space Telescope/Wide Field Camera 3. I am developing new methods to achieve even stronger performance from this fantastic instrument.
 
-<img src="/images/trappist-1.png" width=1000 style='vertical-align:bottom;margin:5px 5px;display:block'>
+<img src="/images/RECTE.png" width=800 style='vertical-align:bottom;margin:5px 5px;display:block'>
 
-I (together with Prof. Daniel Apai and Dr. Ben Rackham) mentored an undergraduate student, Zhanbo Zhang, to re-analyze HST/WFC3 observations of TRAPPIST-1 planets. In [this study](https://ui.adsabs.harvard.edu/abs/2018AJ....156..178Z/abstract), we corrected light curve systematics with the model [RECTE](https://ui.adsabs.harvard.edu/abs/2017AJ....153..243Z/abstract), for which I led the development. From the combined spectrum of six of the seven TRAPPIST-1 planets, we demonstrated that the un-occulted stellar spots/faculae could introduce contaminating spectroscopic features. Therefore, understanding the stellar surface structures is crucial for accurately interpreting transmission spectra.<br/>
+I led the development of the WFC3/IR systematic model [RECTE](https://ui.adsabs.harvard.edu/abs/2017AJ....153..243Z/abstract). We showed that "ramp effect", the primary systematics in WFC3/IR light curves, can be explained and corrected with high fidelity using charge trapping theories. RECTE is proved to be able to provide near photon noise limited corrections for observations made with both staring and scanning modes of transiting exoplanets as well as for starting-mode observations of brown dwarfs. After our model correction, the light curve of the first orbit in each visit has the same photometric precision as subsequent orbits, so data from the first orbit need no longer be discarded. 
 
-I am involved in a few other transmission spectroscopy studies, including [the first discovery of escaping atmospheres from an exoplanet](https://ui.adsabs.harvard.edu/abs/2018Natur.557...68S/abstract).<br/>
+********
 
-I am a co-I of an HST program studying close brown dwarf companions of white dwarfs. These brown dwarfs receive powerful radiations from the white dwarfs and behave similarly to hot Jupiters. However, the brown dwarf thermal radiation signals are much stronger than typical hot Jupiters. Therefore, these brown dwarf-white dwarf pairs are excellent test cases for hot Jupiter atmospheric theories.
+<img src="/images/PSF_reconstruction.png" width=800 style='vertical-align:bottom;margin:5px 5px;display:block'>
 
-
-
+For high contrast direct-imaging observations, I am experimenting with a novel dithering and image reconstruction technique (originally introduced by [Rajan et al. (2015)](https://iopscience.iop.org/article/10.1088/2041-8205/809/2/L33/) in high-contrast direct imaging observations). The reconstructions result in highly-accurate Nyquist sampled images. The success of this technique will further unleash the potential of WFC3 in direct-imaging observations of exoplanets.
