@@ -8,12 +8,15 @@ author_profile: true
 
 ## Projects
 **1. HALPHA: Hubble Accreting Luminous Protoplanets in H-Alpha**
+
 HALPHA is an HST Cycle 30 program, where we have collected high-contrast imaging data of ten transition disk systems in the narrowband H-alpha filter. We will identify and characterize the protoplanetary signals, analyze the disk structures in scattered light, and investigate the formation evironment of protoplanets.
 
 **2. Understand accretion onto planets with a multi-wavelength approach.**
+
 Mass accretion onto young forming planets have been probed using mutliple accretion indicators. We will gather observations in the ultraviolet continuum and hydrogen emission lines to estimate the mass accretion rate of these planets. Combining these observations with latest planetary accretion model will lead to a more complete understanding of planet formation.
 
 **3. Characterize benchmark gas giant planets.**
+
 Precise GAIA astrometry and long-term radial velocity observations have yielded dynamical mass constraints of planets and brown dwarfs. We will measure the spectral energy distributions of these "benchmark" substellar objects to test against the evolutionary and atmospheirc models, which are essential tools to interpret observations of exoplanets.
 
 **********

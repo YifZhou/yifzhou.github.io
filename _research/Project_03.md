@@ -6,6 +6,12 @@ permalink: /research/techniques/
 author_profile: true
 ---
 
+## Project
+**Enabling precision time series observations with space-based observatories.**
+Time-series observations offer powerful probes of planet formation processes and planetary atmospheres, revealing the time varying accretion onto young planetary mass companions and the heterogeneous atmospheres of brown dwarfs. Overcoming challenges posed by host star interference, space-based observatories emerge as the ideal choice, because of their superior photometric stability compared to ground-based adaptive optics systems. Armed with data from Hubble and James Webb Space Telescopes, we shall optimize observing and data reduction strategies, propelling a large-scale survey of time series high-contrast observations.
+
+*********
+
 I am an experienced user of the Hubble Space Telescope/Wide Field Camera 3. I am developing new methods to achieve even stronger performance from this fantastic instrument.
 
 <img src="/images/RECTE.png" width=800 style='vertical-align:bottom;margin:5px 5px;display:block'>
