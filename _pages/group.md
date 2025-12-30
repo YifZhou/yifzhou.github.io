@@ -13,8 +13,11 @@ Progress is usually made through collaboration. Working with students has always
 
 # Group members
 
--  
-
 <img src="/images/Adams.png" width=120 style='float:left;margin:5px 30px'>
 
 **Dr. Arthur Adams** specializes in atmospheric retrieval and mapping techniques. He analyzes JWST data to investigate atmospheric dynamics and three-dimensional structures in exoplanets.
+
+
+<img src="/images/Demars.png" width=120 style='float:left;margin:5px 30px'>
+
+Dr. Dorian Demars, expert in characterizing the accretion processes during the formation of giant planets. Dr. Demars uses multi-epoch imaging and spectroscopic data to test models describe the mass accretion of young planets.
