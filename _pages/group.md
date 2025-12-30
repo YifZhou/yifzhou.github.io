@@ -20,4 +20,9 @@ Progress is usually made through collaboration. Working with students has always
 
 <img src="/images/Demars.png" width=120 style='float:left;margin:5px 30px'>
 
-Dr. Dorian Demars, expert in characterizing the accretion processes during the formation of giant planets. Dr. Demars uses multi-epoch imaging and spectroscopic data to test models describe the mass accretion of young planets.
+**Dr. Dorian Demars** studies accretion processes during giant planet formation. Through multi-epoch imaging and spectroscopy, Dr. Demars tests theoretical models of how young planets accumulate mass.
+
+
+<img src="/images/DBL.png" width=120 style='float:left;margin:5px 30px'>
+
+**Daphne Broski-Laing** is a graduate student at UVA. She uses JWST spectroscopic time series observations to study the atmospheres and evolution of irradiated brown dwarfs.
