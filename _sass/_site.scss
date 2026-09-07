@@ -125,6 +125,12 @@ button:focus,
   margin: 0;
 }
 
+// The legacy theme transitions all properties, including widths and font sizes.
+// Keep hover feedback without animating layout changes during browser resizing.
+.page__content * {
+  transition-property: color, background-color, border-color, box-shadow;
+}
+
 .page__content p,
 .page__content li,
 .site-content p,
@@ -161,6 +167,7 @@ button:focus,
 }
 
 .home-hero {
+  margin-bottom: 5.5rem;
   overflow: hidden;
   background: $site-navy;
   color: #f8f4eb;
@@ -177,7 +184,7 @@ button:focus,
   min-height: 33rem;
   margin: 0 auto;
   overflow: hidden;
-  grid-template-columns: minmax(18rem, 0.8fr) minmax(28rem, 1.2fr);
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
 }
 
 .home-hero__copy {
@@ -185,15 +192,15 @@ button:focus,
   min-width: 0;
   flex-direction: column;
   justify-content: center;
-  padding: 4.5rem max(2rem, calc((100vw - 1200px) / 2));
-  padding-right: 3rem;
+  // The inner grid is capped; its padding must not grow with the outer viewport.
+  padding: 4.5rem clamp(1.5rem, 3vw, 3rem);
 }
 
 .home-hero h1 {
   max-width: 27rem;
   margin: 0;
   color: #fffaf0;
-  font-size: clamp(2.7rem, 4.7vw, 5.3rem);
+  font-size: clamp(2.7rem, 4.7vw, 3.8rem);
   line-height: 0.98;
 }
 
@@ -217,7 +224,7 @@ button:focus,
   object-position: center;
 }
 
-.hero-caption {
+.home-hero .hero-caption {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0.55rem 1.5rem 0.75rem;
@@ -278,12 +285,6 @@ button:focus,
 
 .home-page {
   padding-top: 0;
-}
-
-.home-page > .home-hero {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-bottom: 5.5rem;
 }
 
 .section-heading {
@@ -993,11 +994,6 @@ button:focus,
 
   .home-page {
     padding-top: 0;
-  }
-
-  .home-page > .home-hero {
-    width: calc(100% + 2rem);
-    margin-left: -1rem;
   }
 
   .greedy-nav button {

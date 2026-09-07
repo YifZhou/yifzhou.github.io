@@ -10,7 +10,6 @@ sitemap: true
 
 {% include base_path %}
 
-<div class="home-page">
   <section class="home-hero" aria-labelledby="home-hero-title">
     <div class="home-hero__inner">
       <div class="home-hero__copy">
@@ -29,6 +28,7 @@ sitemap: true
     <p class="hero-caption">Artist's concept of a growing planet, an irradiated brown dwarf, and JWST observations of a distant planet.</p>
   </section>
 
+<div class="home-page">
   <section class="site-content" aria-labelledby="research-at-a-glance">
     <div class="section-heading">
       <h2 id="research-at-a-glance">Research at a glance</h2>
