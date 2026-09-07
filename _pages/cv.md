@@ -1,80 +1,48 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
+excerpt: "Current-role summary and downloadable curriculum vitae."
+description: "Current curriculum vitae for Dr. Yifan Zhou, Assistant Professor of Astronomy at the University of Virginia."
+author_profile: false
+hide_page_title: true
+share: false
+comments: false
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-[PDF Version](/files/cv.pdf "cv.pdf")
+<div class="editorial-page cv-page">
+  <header class="page-intro">
+    <p class="eyebrow">Curriculum vitae</p>
+    <h1>Dr. Yifan Zhou</h1>
+    <p class="lead">Assistant Professor of Astronomy at the University of Virginia. I study how planets form and how their atmospheres change.</p>
+  </header>
 
-Work Experience
-======
-* 2023-, Assistant Professor
-  * University of Virginia
-* 2021-2023, 51 Pegasi b Fellow
-  * University of Texas at Austin
-* 2019-2021, Harlan J. Smith McDonald Observatory Postdoc Fellow
-  * The Unversity of Texas at Austin/McDonald Observatory
+  <a class="cv-download" href="{{ base_path }}/files/cv.pdf" download>Download the current CV <span aria-hidden="true">↗</span></a>
 
-Education
-======
-* Ph.D in Astronomy and Astrophysics, The University of Arizona, 2019
-* B.S. in Astronomy, Peking University, 2014
-
-  
-Service and Leadership
-======
-* 2020 NASA FINESST Fellowship Reviewer
-* HST Proposal Reviewer (Cycles 27, 29, 30)
-* Referee for AAS Journals, A&A, MNRAS, Nature Astronomy
-* Graduate admission committee (University of Arizona, UT Austin)
-
-Awards
-=====
-* 2021--2023, **51 Pegasi b Fellow**
-* 2019--2021, **Harlan J. Smith Fellow**
-* 2015--2018, **NESSF fellowship** NASA Earth and Space Science Fellowship
-* 2015--2016, **TRIF Fellowship**
-* 09/2013 **First Lin-Qiao Prize** for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University & KIAA
-
-Funded projects (as PIs)
-=====
-- JWST Cycle 2 (GO-03181)      
-*Monitor a variable planetary mass companion with NIRSpec IFU*
-
-- JWST Cycle 2 (GO-03375)    
-*Dancing 1 - 14 micron spectra to solve the cloudy and chemical puzzle of brown dwarf variability (co-PI)*
-
-- HST Cycle 30 (GO-17280)    
-*Validating and Characterizing the Protoplanet Candidate AB Aur b with WFC3/UVIS UV and Optical Photometry*
-
-- HST Cycle 30 (GO-17168)
-*Confirming the Protoplanet Candidate AB Aur b with Accretion Light Echoes (co-PI)*
-
-- HST Cycle 29 (GO16651), 
-*A Search for Accreting Protoplanets within Transition Disk Gaps*
-
-- HST Cycle 27 (GO16036), 
-*Mapping Clouds on a Variable Planetary-Mass Companion*
-  
-- HST Cycle 27 (GO15830), 
-*A Planet is Born: Investigating the Accretion Process of PDS70b with WFC3/UVIS Direct Imaging Observations*
-
-- HST Cycle 25 (AR15060), 
-*Unleashing the Charges: An Improved Reduction of Key Exoplanet Datasets and a Tool for Ramp Effect Correction*
-
-- Spitzer DDT program (14312), 
-*Rotational modulations of a highly variable planetary-mass companion*
-
-- NASA/Keck 2023B      
-*High-contrast imaging observations of substellar companions of an accelerating star*
-
-- NASA/Keck 2023B    
-*Characterizing the Atmosphere of a Benchmark T Dwarf Companion*
-  
-- NASA/Keck 2021A, 
-*The Angular Momentum Archetecture of the VHS1256 Planetary System.*
+  <section class="summary-grid summary-grid--wide" aria-label="Current role summary">
+    <article class="summary-card">
+      <p class="card-kicker">Current position</p>
+      <h2>Assistant Professor</h2>
+      <p>Department of Astronomy, University of Virginia · 2023–present</p>
+    </article>
+    <article class="summary-card">
+      <p class="card-kicker">Research</p>
+      <h2>Planet formation and atmospheres</h2>
+      <p>Gas accretion onto young planets, irradiated brown dwarfs, and repeated imaging and spectroscopy with JWST.</p>
+    </article>
+    <article class="summary-card">
+      <p class="card-kicker">Teaching</p>
+      <h2>Courses and mentoring</h2>
+      <p>UVA courses in alien worlds and astronomical techniques, alongside undergraduate research mentoring.</p>
+    </article>
+    <article class="summary-card">
+      <p class="card-kicker">Full record</p>
+      <h2>Education, service, and awards</h2>
+      <p>The CV includes education, observing programs, grants, service, teaching, mentoring, and invited talks.</p>
+    </article>
+  </section>
+</div>

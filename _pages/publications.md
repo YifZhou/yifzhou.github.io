@@ -1,33 +1,63 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
+excerpt: "Selected recent results from the group."
+description: "Recent group-led papers and 2026 collaborations by Yifan Zhou, including β Pictoris b's rotation, MIRI planet searches, and brown-dwarf variability."
+author_profile: false
+hide_page_title: true
+share: false
+comments: false
 ---
 
-* **First-author publications**
-  1. **Roaring Storms in the Planetary-Mass Companion VHS 1256-1257 b:**    
-      **Hubble Space Telescope Multi-epoch Monitoring Reveals Vigorous Evolution in an Ultra-cool Atmosphere**, *AJ*, 164.6:239, Dec 2022
-      
-  2. **HST/WFC3 H-alpha Direct-imaging Detection of a Pointlike Source in the Disk Cavity of AB Aur**, *ApJL*, 934:L13, July 2022
-  
-  3. **HST/WFC3 Complete Phase-resolved Spectroscopy of White-dwarf-brown-dwarf Binaries WD 0137 and EPIC 2122**, AJ, 163:17, Jan 2022
-  
-  4. **Hubble Space Telescope UV and H-alpha Measurements of the Accretion Excess Emission  from the Young Giant Planet PDS 70 b**, *AJ*, 161:224, May 2021
+{% include base_path %}
 
-  5. **Spectral Variability of VHS J1256–1257b from 1 to 5 μm**, *AJ*, 160:77, Jul 2020         
+<div class="editorial-page publications-page">
+  <header class="page-intro">
+    <p class="eyebrow">Selected recent results</p>
+    <h1>Publications</h1>
+    <p class="lead">Recent papers on planet formation and planetary atmospheres, including our 2026 results. <a href="{{ base_path }}/deep-dive/">Deep Dive</a> explains the group-led studies; the list below also includes recent collaborations.</p>
+    <p class="article-links"><a href="#group-papers">Group-led papers</a><a href="#collaborations">Recent collaborations</a><a href="#full-publication-list">Full ADS record</a></p>
+  </header>
 
-  6. **Cloud Atlas: High-precision HST/WFC3/IR Time-resolved Observations of Directly Imaged Exoplanet HD 106906b**, *AJ*, 159:140, Mar 2020        
-  
-  7. **Cloud Atlas: High-Contrast Time-Resolved Observations of Planetary-Mass Companions**, *AJ*, 157:128, Jan 2019    
-  
-  8. **Cloud Atlas: Rotational Modulations in the L/T Transition Brown Dwarf Companion HN Peg B**, *AJ*, 155(3):132, Jan 2018    
-  
-  9. **A Physical Model-based Correction for Charge Traps in the Hubble Space Telescope's Wide Field Camera 3 Near-IR Detector and Applications to Transiting Exoplanets and Brown Dwarfs**, *AJ*, 153(6):243, Mar 2017    
-  
-  10. **Discovery Of Rotational Modulations in the Planetary-Mass Companion 2M1207b: Intermediate Rotation Period and Heterogeneous Clouds in a Low Gravity Atmosphere**, *ApJ*, 818(2):176, Feb 2016        
-  
-  11. **Accretion onto Planetary Mass Companions of Low-Mass Young Stars**, *ApJL*, 783(1):L17, Feb 2014    
-  
-  
-[Please find my latest publication list at ADS.](https://ui.adsabs.harvard.edu/#search/p_=0&q=orcid%3A0000-0003-2969-6040&sort=date%20desc%2C%20bibcode%20desc "NASA/ADS")
+  <section class="publications-list" aria-labelledby="group-papers">
+    <h2 id="group-papers">Group-led papers</h2>
+    {% assign group_papers = site.deep_dives | sort: "paper_order" | reverse %}
+    {% for paper in group_papers %}
+    <article class="publication-item">
+      <div class="publication-item__number" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+      <div>
+        <h3><a href="https://ui.adsabs.harvard.edu/abs/{{ paper.bibcode }}/abstract">{{ paper.paper_title | escape }}</a></h3>
+        <p>{{ paper.paper_authors }} · {{ paper.paper_period }} · {{ paper.paper_journal }}</p>
+        <p class="article-links"><span>{{ paper.paper_status }}</span><a href="{{ base_path }}{{ paper.url }}">Read the Deep Dive<span class="visually-hidden">: {{ paper.title }}</span></a></p>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
+
+  <section class="publications-list" aria-labelledby="collaborations">
+    <h2 id="collaborations">Recent collaborations</h2>
+    {% assign collaborations = site.data.recent_collaborations | sort: "order" | reverse %}
+    {% for paper in collaborations %}
+    <article class="publication-item">
+      <div class="publication-item__number" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+      <div>
+        <h3><a href="https://ui.adsabs.harvard.edu/abs/{{ paper.bibcode | escape }}/abstract">{{ paper.title | escape }}</a></h3>
+        <p>{{ paper.authors }} · {{ paper.period }} · {{ paper.journal | escape }}</p>
+        <p>{{ paper.status }}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
+
+  <section class="split-band" aria-labelledby="full-publication-list">
+    <div>
+      <p class="eyebrow">Complete record</p>
+      <h2 id="full-publication-list">Find the full publication list in NASA ADS.</h2>
+      <p>The ADS record is the authoritative place to browse the complete, current bibliography.</p>
+      <div class="button-row">
+        <a class="site-button" href="https://ui.adsabs.harvard.edu/#search/p_=0&amp;q=orcid%3A0000-0003-2969-6040&amp;sort=date%20desc%2C%20bibcode%20desc">Open full ADS list</a>
+      </div>
+    </div>
+  </section>
+</div>

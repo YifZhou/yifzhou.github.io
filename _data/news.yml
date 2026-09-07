@@ -1,0 +1,51 @@
+# Use the documented event or publication month; do not invent a day.
+- date: "2026-09"
+  period: September 2026
+  slug: beta-pic-b-rotation
+  kind: Publication
+  title: "We measure β Pictoris b's rotation with JWST"
+  summary: "Our paper in The Astronomical Journal measures a 9.00 ± 0.13-hour period from two infrared light curves. The quoted uncertainty is the formal fit error; atmospheric evolution can increase it. Combined with existing rotation-speed measurements, the result favors an equator-on view of the planet."
+  article_url: /deep-dive/beta-pic-b-rotation/
+  bibcode: 2026AJ....172..152Z
+- date: "2026-07"
+  period: July 2026
+  slug: miri-wide-orbit-planets
+  kind: Publication
+  title: "Yihan Li searches MIRI images for distant giant planets"
+  summary: "Yihan's first-author paper uses archival 15-micron observations of ten M-dwarf systems to search for outer planets. It reports detection limits and examines nearby sources, without confirming new planets. Converting brightness limits to masses depends on the systems' ages and the available atmospheric and cooling models."
+  article_url: /deep-dive/miri-wide-orbit-planets/
+  bibcode: 2026AJ....172...26L
+- date: "2026-02"
+  period: February 2026
+  slug: gray-brown-dwarf-variability
+  kind: Publication
+  title: "Madalyn Chapleski compares changing brown-dwarf spectra"
+  summary: "Madalyn's paper with Yifan in The Astrophysical Journal presents Hubble time-series spectra of three brown dwarfs. Their variability across a water absorption band differs from the pattern in the comparison object 2MASS J2139. The results test how clouds and temperature contribute to atmospheric changes."
+  article_url: /deep-dive/gray-brown-dwarf-variability/
+  bibcode: 2026ApJ...997..152C
+- date: "2026-06"
+  period: June 2026
+  slug: ztf0038-phase-curve
+  kind: Preprint
+  title: "Daphne Broski-Laing measures day-to-night changes on ZTF0038B"
+  summary: "Daphne's first-author paper presents JWST spectra across a full orbit of a white dwarf–brown dwarf binary. The observations show inefficient heat transport to the nightside and an asymmetric carbon dioxide absorption feature. The nightside emission also helps constrain the system's age."
+  article_url: /deep-dive/ztf0038-day-and-night/
+  bibcode: 2026arXiv260630112B
+
+- date: "2025-11"
+  period: November 2025
+  slug: 2m1207-time-series
+  kind: Publication
+  title: "Arthur Adams follows 2M1207 A and b with JWST"
+  summary: "Arthur's first-author paper in The Astronomical Journal measures how both members of 2M1207 change across a 12.56-hour observation. The companion's spectral variability is broadly consistent with changes in the visible coverage of clouds. The study also identifies where light from the host limits measurements of the faint companion."
+  article_url: /deep-dive/2m1207-changing-atmosphere/
+  bibcode: 2025AJ....170..289A
+
+- date: "2025-02"
+  period: February 2025
+  slug: pds70-variable-accretion
+  kind: Publication
+  title: "Hubble observations show PDS 70 c's accretion signature changing"
+  summary: "Our paper in The Astrophysical Journal Letters compares Hubble observations from 2020 and 2024. PDS 70 c became significantly brighter in hydrogen-alpha emission, a tracer of accretion. The result shows why repeated observations matter when searching for planets that are still growing."
+  article_url: /deep-dive/pds70c-variable-accretion/
+  bibcode: 2025ApJ...980L..39Z

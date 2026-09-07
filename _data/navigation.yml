@@ -4,8 +4,17 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Group"
+  - title: "Deep Dive"
+    url: /deep-dive/
+
+  - title: "News"
+    url: /news/
+
+  - title: "People"
     url: /group/
+
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Publications"
     url: /publications/
@@ -13,4 +22,3 @@ main:
   - title: "CV"
     url: /cv/
     
-

@@ -1,0 +1,34 @@
+---
+layout: single
+---
+{% include base_path %}
+<div class="editorial-page deep-dive-article">
+  <nav class="article-nav" aria-label="Article navigation">
+    <a href="{{ base_path }}/deep-dive/">All Deep Dive articles</a>
+    <a href="{{ base_path }}{{ page.theme_url }}">{{ page.theme_title }}</a>
+  </nav>
+  <header class="page-intro">
+    <p class="eyebrow">Deep Dive · {{ page.topic }}</p>
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.description }}</p>
+    <p class="article-meta">{{ page.paper_authors }} · {{ page.paper_period }} · {{ page.paper_status }}</p>
+  </header>
+  <figure class="paper-figure">
+    <a href="{{ base_path }}/images/{{ page.social_image }}" aria-label="View full-size figure: {{ page.figure_alt | escape }}">
+      <img src="{{ base_path }}/images/{{ page.social_image }}" width="{{ page.figure_width }}" height="{{ page.figure_height }}" alt="{{ page.figure_alt | escape }}">
+    </a>
+    <figcaption>{{ page.figure_caption }} <a href="{{ page.paper_url }}">{{ page.paper_authors }}, {{ page.figure_number }}</a> (CC BY 4.0). Select the figure for a larger view.</figcaption>
+  </figure>
+  <div class="article-body">
+    {{ content }}
+    <section class="paper-reference" aria-labelledby="paper-reference-title">
+      <h2 id="paper-reference-title">The paper</h2>
+      <p>{{ page.paper_authors }} ({{ page.paper_year }}). {{ page.paper_title }}. <em>{{ page.paper_journal }}</em>.</p>
+      <p class="article-links"><a href="https://ui.adsabs.harvard.edu/abs/{{ page.bibcode }}/abstract">Paper on ADS</a><a href="{{ page.paper_url }}">Read the full paper</a></p>
+    </section>
+    <nav class="article-nav" aria-label="Continue reading">
+      <a href="{{ base_path }}/deep-dive/">More Deep Dive articles</a>
+      <a href="{{ base_path }}/news/">Group news</a>
+    </nav>
+  </div>
+</div>

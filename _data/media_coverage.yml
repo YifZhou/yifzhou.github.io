@@ -1,0 +1,64 @@
+# Original publisher pages checked on 2026-09-07; dates are report dates,
+# not observing dates or journal issue dates. Do not duplicate syndicated copies.
+- date: "2026-08-12"
+  period: August 12, 2026
+  slug: uva-beta-pic-b
+  kind: University news
+  source: UVA Arts & Sciences
+  source_url: https://as.virginia.edu/news/one-day-distant-planet-offers-clues-its-origins
+  title: "One Day on a Distant Planet Offers Clues to Its Origins"
+  summary: "UVA covers our measurement of β Pictoris b's rotation with JWST and explains how a planet's changing brightness can inform studies of its atmosphere and formation. The Deep Dive distinguishes the measured spin inclination from the still-unknown three-dimensional obliquity."
+  article_url: /deep-dive/beta-pic-b-rotation/
+  bibcode: 2026AJ....172..152Z
+  # The report simplifies the alignment result. Retain the paper's 3D-obliquity caveat.
+- date: "2026-07-15"
+  period: July 15, 2026
+  slug: eso-beta-pic-d
+  kind: Observatory release
+  source: ESO
+  source_url: https://www.eso.org/public/news/eso2609/
+  title: "Faintest planet ever imaged from Earth found after more than 10 years of hide-and-seek"
+  summary: "ESO reports the discovery of β Pictoris d by the collaboration co-led by Ben Sutlieff and Markus Bonse, with Yifan as a co-author. The team combined new VLT observations with archival VLT and JWST images. This discovery is separate from our rotation measurement of β Pictoris b."
+  bibcode: 2026ApJ..1006L..10S
+- date: "2026-05-27"
+  period: May 27, 2026
+  slug: pku-miri-planet-search
+  kind: University news
+  source: PKU / Kavli Institute for Astronomy and Astrophysics
+  source_url: https://kiaa.pku.edu.cn/info/1031/11362.htm
+  title: "PKU astronomers develop a new method to search for planets with JWST"
+  summary: "KIAA profiles Yihan Li's search for distant giant planets in existing MIRI observations. The report describes her work with Yifan and Gregory Herczeg and explains how data collected for transiting planets can also constrain outer companions."
+  article_url: /deep-dive/miri-wide-orbit-planets/
+  bibcode: 2026AJ....172...26L
+  # The report names ApJ; the verified ADS publication record is AJ.
+- date: "2026-05-11"
+  period: May 11, 2026
+  slug: danya-nsf-grfp
+  kind: Award announcement
+  source: UVA Arts & Sciences
+  source_url: https://as.virginia.edu/news/science-graduate-students-earn-prestigious-nsf-graduate-research-fellowships
+  title: "Danya Alboslani receives an NSF Graduate Research Fellowship"
+  summary: "Danya Alboslani, a graduate student in our group, received a 2026 National Science Foundation Graduate Research Fellowship. UVA Arts & Sciences highlights her work on atmospheric circulation and changing weather in brown dwarfs and planet-like worlds."
+  related_url: /group/#graduate-students
+  related_label: Meet our graduate students
+- date: "2025-03-14"
+  period: March 14, 2025
+  slug: nature-pds70-accretion
+  kind: Research highlight
+  source: Nature Astronomy
+  source_url: https://www.nature.com/articles/s41550-025-02522-w
+  access_note: Subscription may be required
+  title: "The varying accretion at PDS 70"
+  summary: "Nature Astronomy highlights our Hubble study alongside independent MagAO-X observations. The report focuses on changes in the planets' hydrogen-alpha emission and what repeated measurements reveal about gas accretion."
+  article_url: /deep-dive/pds70c-variable-accretion/
+  bibcode: 2025ApJ...980L..39Z
+- date: "2025-01-16"
+  period: January 16, 2025
+  slug: aas-maddie-chambliss
+  kind: Award announcement
+  source: American Astronomical Society
+  source_url: https://aas.org/posts/news/2025/01/congratulations-aas-245-chambliss-student-award-winners
+  title: "Maddie Chapleski receives a Chambliss student award"
+  summary: "The American Astronomical Society names Madalyn Chapleski of UVA among the undergraduate Chambliss Astronomy Achievement Student Award winners at its 245th meeting."
+  related_url: /group/#recent-mentees
+  related_label: Recent mentees and alumni
