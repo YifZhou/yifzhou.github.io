@@ -4,13 +4,16 @@ description: "JWST follows ZTF0038B through a full orbit. Its changing spectrum 
 date: 2026-09-07
 topic: Irradiated atmospheres
 research_summary: "JWST spectra across a full orbit show inefficient day-to-night heat transport on ZTF0038B. An asymmetric nightside carbon dioxide feature remains unexplained, while nightside emission constrains the system's evolutionary history."
-paper_order: 202606
-paper_period: June 2026
+paper_order: 202609
+paper_period: September 2026
 paper_year: 2026
-paper_status: Preprint
+paper_status: Refereed paper
 paper_authors: Broski-Laing et al.
-paper_title: "Asymmetric nightside CO2 features, inefficient heat transport, and precise evolutionary constraints: Spectroscopic phase curves reveal the past and present of a white dwarf-brown dwarf binary"
-paper_journal: arXiv e-prints
+paper_title: "Asymmetric Nightside CO2 Features, Inefficient Heat Transport, and Precise Evolutionary Constraints: Spectroscopic Phase Curves Reveal the Past and Present of a White Dwarf–Brown Dwarf Binary"
+paper_journal: The Astrophysical Journal
+paper_citation: "1009, 177"
+publication_url: https://iopscience.iop.org/article/10.3847/1538-4357/ae9940
+# ADS still indexes the preprint; retain its real bibcode until the journal record appears.
 bibcode: 2026arXiv260630112B
 paper_url: https://arxiv.org/html/2606.30112v1
 theme_url: /research/irradiated-worlds/

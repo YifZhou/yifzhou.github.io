@@ -119,6 +119,7 @@ comments: false
           <p class="person-role">UVA · 2024–2026</p>
           <h3>Maddie Chapleski</h3>
           <p>Maddie observed and modeled variable infrared emission from brown dwarfs.</p>
+          <p>She is now a Ph.D. student in Astronomy and Astrophysics at the University of Arizona and a <a href="https://gradcenter.arizona.edu/person/madalyn-chapleski">2026–2027 University Fellow</a>.</p>
           <p><a href="{{ base_path }}/deep-dive/gray-brown-dwarf-variability/">Read Maddie's 2026 Hubble study</a></p>
         </div>
       </article>

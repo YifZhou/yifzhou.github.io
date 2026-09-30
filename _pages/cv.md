@@ -22,6 +22,7 @@ redirect_from:
   </header>
 
   <a class="cv-download" href="{{ base_path }}/files/cv.pdf" download>Download the current CV <span aria-hidden="true">↗</span></a>
+  <p>Updated September 30, 2026.</p>
 
   <section class="summary-grid summary-grid--wide" aria-label="Current role summary">
     <article class="summary-card">

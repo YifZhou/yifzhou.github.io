@@ -23,8 +23,8 @@ layout: single
     {{ content }}
     <section class="paper-reference" aria-labelledby="paper-reference-title">
       <h2 id="paper-reference-title">The paper</h2>
-      <p>{{ page.paper_authors }} ({{ page.paper_year }}). {{ page.paper_title }}. <em>{{ page.paper_journal }}</em>.</p>
-      <p class="article-links"><a href="https://ui.adsabs.harvard.edu/abs/{{ page.bibcode }}/abstract">Paper on ADS</a><a href="{{ page.paper_url }}">Read the full paper</a></p>
+      <p>{{ page.paper_authors }} ({{ page.paper_year }}). {{ page.paper_title }}. <em>{{ page.paper_journal }}</em>{% if page.paper_citation %}, {{ page.paper_citation }}{% endif %}.</p>
+      <p class="article-links"><a href="https://ui.adsabs.harvard.edu/abs/{{ page.bibcode }}/abstract">Paper on ADS</a><a href="{{ page.publication_url | default: page.paper_url }}">Read the full paper</a></p>
     </section>
     <nav class="article-nav" aria-label="Continue reading">
       <a href="{{ base_path }}/deep-dive/">More Deep Dive articles</a>

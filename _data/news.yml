@@ -23,13 +23,14 @@
   summary: "Madalyn's paper with Yifan in The Astrophysical Journal presents Hubble time-series spectra of three brown dwarfs. Their variability across a water absorption band differs from the pattern in the comparison object 2MASS J2139. The results test how clouds and temperature contribute to atmospheric changes."
   article_url: /deep-dive/gray-brown-dwarf-variability/
   bibcode: 2026ApJ...997..152C
-- date: "2026-06"
-  period: June 2026
+- date: "2026-09"
+  period: September 2026
   slug: ztf0038-phase-curve
-  kind: Preprint
+  kind: Publication
   title: "Daphne Broski-Laing measures day-to-night changes on ZTF0038B"
-  summary: "Daphne's first-author paper presents JWST spectra across a full orbit of a white dwarf–brown dwarf binary. The observations show inefficient heat transport to the nightside and an asymmetric carbon dioxide absorption feature. The nightside emission also helps constrain the system's age."
+  summary: "Daphne's first-author paper, published in The Astrophysical Journal on September 25, presents JWST spectra across a full orbit of a white dwarf–brown dwarf binary. The observations show inefficient heat transport to the nightside and an asymmetric carbon dioxide absorption feature. The nightside emission also helps constrain the system's age."
   article_url: /deep-dive/ztf0038-day-and-night/
+  publication_url: https://iopscience.iop.org/article/10.3847/1538-4357/ae9940
   bibcode: 2026arXiv260630112B
 
 - date: "2025-11"

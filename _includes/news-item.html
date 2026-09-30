@@ -10,7 +10,7 @@
     <p class="article-links">
       {% if include.item.source_url %}<a href="{{ include.item.source_url }}">Read at {{ include.item.source | escape }}</a>{% endif %}
       {% if include.item.article_url %}<a href="{{ base_path }}{{ include.item.article_url }}">Read the Deep Dive<span class="visually-hidden">: {{ include.item.slug | replace: '-', ' ' }}</span></a>{% endif %}
-      {% if include.item.bibcode %}<a href="https://ui.adsabs.harvard.edu/abs/{{ include.item.bibcode }}/abstract">Paper on ADS<span class="visually-hidden">: {{ include.item.slug | replace: '-', ' ' }}</span></a>{% endif %}
+      {% if include.item.publication_url %}<a href="{{ include.item.publication_url | escape }}">Published paper<span class="visually-hidden">: {{ include.item.slug | replace: '-', ' ' }}</span></a>{% elsif include.item.bibcode %}<a href="https://ui.adsabs.harvard.edu/abs/{{ include.item.bibcode }}/abstract">Paper on ADS<span class="visually-hidden">: {{ include.item.slug | replace: '-', ' ' }}</span></a>{% endif %}
       {% if include.item.related_url %}<a href="{{ base_path }}{{ include.item.related_url }}">{{ include.item.related_label }}</a>{% endif %}
     </p>
     {% if include.item.access_note %}<p class="article-meta">{{ include.item.access_note }}</p>{% endif %}

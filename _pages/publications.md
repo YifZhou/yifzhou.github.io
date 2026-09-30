@@ -17,7 +17,7 @@ comments: false
     <p class="eyebrow">Selected recent results</p>
     <h1>Publications</h1>
     <p class="lead">Recent papers on planet formation and planetary atmospheres, including our 2026 results. <a href="{{ base_path }}/deep-dive/">Deep Dive</a> explains the group-led studies; the list below also includes recent collaborations.</p>
-    <p class="article-links"><a href="#group-papers">Group-led papers</a><a href="#collaborations">Recent collaborations</a><a href="#full-publication-list">Full ADS record</a></p>
+    <p class="article-links"><a href="#group-papers">Group-led papers</a><a href="#collaborations">Recent collaborations</a><a href="#white-papers">White papers</a><a href="#full-publication-list">Full publication list</a></p>
   </header>
 
   <section class="publications-list" aria-labelledby="group-papers">
@@ -27,8 +27,8 @@ comments: false
     <article class="publication-item">
       <div class="publication-item__number" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
       <div>
-        <h3><a href="https://ui.adsabs.harvard.edu/abs/{{ paper.bibcode }}/abstract">{{ paper.paper_title | escape }}</a></h3>
-        <p>{{ paper.paper_authors }} · {{ paper.paper_period }} · {{ paper.paper_journal }}</p>
+        <h3><a href="{% if paper.publication_url %}{{ paper.publication_url | escape }}{% else %}https://ui.adsabs.harvard.edu/abs/{{ paper.bibcode }}/abstract{% endif %}">{{ paper.paper_title | escape }}</a></h3>
+        <p>{{ paper.paper_authors }} · {{ paper.paper_period }} · {{ paper.paper_journal }}{% if paper.paper_citation %}, {{ paper.paper_citation }}{% endif %}</p>
         <p class="article-links"><span>{{ paper.paper_status }}</span><a href="{{ base_path }}{{ paper.url }}">Read the Deep Dive<span class="visually-hidden">: {{ paper.title }}</span></a></p>
       </div>
     </article>
@@ -42,9 +42,22 @@ comments: false
     <article class="publication-item">
       <div class="publication-item__number" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
       <div>
-        <h3><a href="https://ui.adsabs.harvard.edu/abs/{{ paper.bibcode | escape }}/abstract">{{ paper.title | escape }}</a></h3>
+        <h3>{% if paper.bibcode %}<a href="https://ui.adsabs.harvard.edu/abs/{{ paper.bibcode | escape }}/abstract">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
         <p>{{ paper.authors }} · {{ paper.period }} · {{ paper.journal | escape }}</p>
         <p>{{ paper.status }}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
+
+  <section class="publications-list" aria-labelledby="white-papers">
+    <h2 id="white-papers">White papers</h2>
+    {% for paper in site.data.white_papers %}
+    <article class="publication-item">
+      <div class="publication-item__number" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+      <div>
+        <h3><a href="https://ui.adsabs.harvard.edu/abs/{{ paper.bibcode | escape }}/abstract">{{ paper.title | escape }}</a></h3>
+        <p>{{ paper.authors }} · {{ paper.period }} · {{ paper.status }}</p>
       </div>
     </article>
     {% endfor %}
@@ -53,10 +66,11 @@ comments: false
   <section class="split-band" aria-labelledby="full-publication-list">
     <div>
       <p class="eyebrow">Complete record</p>
-      <h2 id="full-publication-list">Find the full publication list in NASA ADS.</h2>
-      <p>The ADS record is the authoritative place to browse the complete, current bibliography.</p>
+      <h2 id="full-publication-list">Browse the full publication list.</h2>
+      <p>The CV includes published papers, accepted and submitted manuscripts, preprints, and white papers. The curated ADS search covers the indexed records in the September 2026 CV.</p>
       <div class="button-row">
-        <a class="site-button" href="https://ui.adsabs.harvard.edu/#search/p_=0&amp;q=orcid%3A0000-0003-2969-6040&amp;sort=date%20desc%2C%20bibcode%20desc">Open full ADS list</a>
+        <a class="site-button" href="{{ site.data.publication_links.ads | escape }}">Browse publications in ADS</a>
+        <a class="site-button" href="{{ base_path }}/files/cv.pdf">Download the complete CV</a>
       </div>
     </div>
   </section>
