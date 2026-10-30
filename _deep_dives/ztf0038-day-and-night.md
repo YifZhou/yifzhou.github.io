@@ -13,8 +13,7 @@ paper_title: "Asymmetric Nightside CO2 Features, Inefficient Heat Transport, and
 paper_journal: The Astrophysical Journal
 paper_citation: "1009, 177"
 publication_url: https://iopscience.iop.org/article/10.3847/1538-4357/ae9940
-# ADS still indexes the preprint; retain its real bibcode until the journal record appears.
-bibcode: 2026arXiv260630112B
+bibcode: 2026ApJ..1009..177B
 paper_url: https://arxiv.org/html/2606.30112v1
 theme_url: /research/irradiated-worlds/
 theme_title: Irradiated brown dwarf research

@@ -1,3 +1,22 @@
+# Dates follow the public preprint postings.
+- date: "2026-10-26"
+  period: October 26, 2026
+  slug: partial-eclipse-mapping
+  kind: Preprint
+  title: "Arthur Adams develops a method to map partially eclipsed brown dwarfs"
+  summary: "Arthur's new preprint tests which atmospheric structures partial eclipses can reveal and applies the method to JWST observations of WD 1202 B. Interpreting the inferred map requires further work to separate observational systematics from atmospheric emission."
+  bibcode: 2026arXiv261036141A
+  related_url: /research/irradiated-worlds/
+  related_label: Irradiated brown dwarf research
+- date: "2026-10-13"
+  period: October 13, 2026
+  slug: ztf0038-cloud-chemistry
+  kind: Accepted manuscript
+  title: "Three-dimensional models explore ZTF0038B's asymmetric chemistry"
+  summary: "Yanhong Lai and collaborators couple atmospheric circulation, clouds, and chemical reactions in models of ZTF0038B. Spatial variations in carbon monoxide and carbon dioxide offer a possible explanation for the observed carbon dioxide phase-curve asymmetry. The paper is accepted by The Astrophysical Journal."
+  bibcode: 2026arXiv261017714L
+  related_url: /research/irradiated-worlds/
+  related_label: Irradiated brown dwarf research
 # Use the documented event or publication month; do not invent a day.
 - date: "2026-09"
   period: September 2026
@@ -31,7 +50,7 @@
   summary: "Daphne's first-author paper, published in The Astrophysical Journal on September 25, presents JWST spectra across a full orbit of a white dwarf–brown dwarf binary. The observations show inefficient heat transport to the nightside and an asymmetric carbon dioxide absorption feature. The nightside emission also helps constrain the system's age."
   article_url: /deep-dive/ztf0038-day-and-night/
   publication_url: https://iopscience.iop.org/article/10.3847/1538-4357/ae9940
-  bibcode: 2026arXiv260630112B
+  bibcode: 2026ApJ..1009..177B
 
 - date: "2025-11"
   period: November 2025

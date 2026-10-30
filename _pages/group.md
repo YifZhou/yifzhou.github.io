@@ -162,6 +162,12 @@ comments: false
     </ul>
   </section>
 
+  <section class="people-section" id="postdoctoral-opportunities" aria-labelledby="postdoctoral-opportunities-title">
+    <h2 id="postdoctoral-opportunities-title">Postdoctoral opportunities</h2>
+    <p>UVA's Interconnected Cosmos Initiative (ICI) is recruiting postdoctoral researchers for interdisciplinary projects with two mentors. I welcome inquiries from applicants interested in planet formation and planetary atmospheres who would like to develop a project connecting these topics with another discipline.</p>
+    <p>Review begins <strong>December 1, 2026</strong>, and positions remain open until filled. Please <a href="mailto:{{ site.author.email }}">contact me</a> to discuss research interests and potential collaborations. See the <a href="https://aas.org/jobregister/ad/0b580e59">official ICI advertisement</a> for eligibility, application materials, and the application link.</p>
+  </section>
+
   <section class="people-section" id="prospective-students" aria-labelledby="prospective-students-title">
     <h2 id="prospective-students-title">Prospective students</h2>
     <div class="summary-grid summary-grid--wide">

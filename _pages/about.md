@@ -73,6 +73,7 @@ sitemap: true
       <div class="button-row">
         <a class="site-button" href="mailto:{{ site.author.email }}">Send an inquiry</a>
         <a class="site-button site-button--light" href="{{ base_path }}/group/#prospective-students">How to prepare</a>
+        <a class="site-button site-button--light" href="{{ base_path }}/group/#postdoctoral-opportunities">ICI postdoctoral opportunities</a>
       </div>
     </div>
     <div class="split-band__aside">

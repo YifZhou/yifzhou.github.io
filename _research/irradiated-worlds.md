@@ -37,7 +37,12 @@ redirect_from:
     </section>
     <section aria-labelledby="irradiated-learned">
       <h2 id="irradiated-learned">What we have learned</h2>
-      <p>Broski-Laing et al. (2026) find inefficient day-to-night heat transport on ZTF0038B and an asymmetric nightside carbon dioxide absorption feature. The nightside emission also constrains the system's age. <a href="{{ base_path }}/deep-dive/ztf0038-day-and-night/">Read the Deep Dive</a> or <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260630112B/abstract">the preprint on ADS</a>.</p>
+      <p>Broski-Laing et al. (2026) find inefficient day-to-night heat transport on ZTF0038B and an asymmetric nightside carbon dioxide absorption feature. The nightside emission also constrains the system's age. <a href="{{ base_path }}/deep-dive/ztf0038-day-and-night/">Read the Deep Dive</a> or <a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..177B/abstract">the published paper on ADS</a>.</p>
+    </section>
+    <section aria-labelledby="irradiated-models">
+      <h2 id="irradiated-models">Connecting spectra to atmospheric structure</h2>
+      <p><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv261017714L/abstract">Lai et al. (2026), accepted by ApJ</a>, couple circulation, clouds, and chemical reactions in three-dimensional models of ZTF0038B. The models produce spatial variations in carbon monoxide and carbon dioxide that could qualitatively explain the observed carbon dioxide phase-curve asymmetry.</p>
+      <p><a href="https://ui.adsabs.harvard.edu/abs/2026arXiv261036141A/abstract">Adams et al. (2026), a preprint submitted to the Open Journal of Astrophysics</a>, develop a method to map brown dwarfs during partial eclipses. Tests on simulated observations assess which structures can be recovered. Applying the method to JWST observations of WD 1202 B yields a map that differs from circulation-model predictions. Further checks are needed to distinguish atmospheric structure from observational systematics.</p>
     </section>
     <section aria-labelledby="irradiated-matters">
       <h2 id="irradiated-matters">Why it matters</h2>

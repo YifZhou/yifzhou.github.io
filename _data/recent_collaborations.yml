@@ -1,72 +1,87 @@
-# Bibliographic metadata verified with NASA ADS on 2026-09-30.
+# Bibliographic metadata verified with NASA ADS on 2026-10-30.
 # Acceptance status checked against arXiv comments and journal correspondence.
 # These collaborations are separate from the group-led Deep Dive selection.
 - authors: Manjavacas et al.
   title: "Multi-Epoch Stability in the Rotational Modulation of the Planetary-Mass Companion Ross 458C"
   period: September 2026
-  order: 202609
+  order: 20260900
   journal: The Astrophysical Journal Letters
   status: Accepted for publication
   bibcode: 2026arXiv260922072M
 - authors: Jiang et al.
-  title: "Deep Hα Imaging Survey of IC 348 with the Hubble Space Telescope: I. Accretion Properties of Stellar and Substellar Objects"
-  period: September 2026
-  order: 202609
-  journal: The Astronomical Journal
-  status: Accepted for publication
-  bibcode: 2026arXiv260905620Y
+  title: "Deep Hα Imaging Survey of IC 348 with the Hubble Space Telescope. I. Accretion Properties of Stellar and Substellar Objects"
+  period: October 2026
+  order: 20261028
+  journal: "The Astronomical Journal, 172, 286"
+  status: Refereed paper
+  bibcode: 2026arXiv260905620J
+  publication_url: https://doi.org/10.3847/1538-3881/aea84d
 - authors: Wu et al.
   title: "Mid-infrared Imaging of SR 12 c with JWST/MIRI: Grain Growth in an Evolved Circumplanetary Disk"
-  period: September 2026
-  order: 202609
-  journal: The Astrophysical Journal
-  status: Accepted for publication
+  period: October 2026
+  order: 20261000
+  journal: "The Astrophysical Journal, 1010, 174"
+  status: Refereed paper
+  bibcode: 2026ApJ..1010..174W
 - authors: Whiteford et al.
   title: "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems VIII: patchy forsterite and enstatite clouds in the atmosphere of VHS 1256 b, retrieval lessons learned and outlook to the future"
   period: August 2026
-  order: 202608
+  order: 20260800
   journal: The Astrophysical Journal Letters
   status: Accepted for publication
   bibcode: 2026arXiv260806583W
 - authors: Finley et al.
   title: "Ultraviolet Imaging of SR 12 c with HST/WFC3: Accretion and Variability of a Giant Planet at the End Stages of Growth"
   period: August 2026
-  order: 202608
+  order: 20260800
   journal: The Astronomical Journal
   status: Refereed paper
   bibcode: 2026AJ....172..134F
 - authors: Schrader et al.
   title: "The JWST weather report: Unravelling the atmospheric variability of isolated worlds using principal component analysis"
   period: September 2026
-  order: 202609
+  order: 20260900
   journal: Astronomy & Astrophysics
   status: Refereed paper
   bibcode: 2026A&A...713A.192S
 - authors: Sutlieff et al.
   title: "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-long Game of Hide-and-seek"
   period: July 2026
-  order: 202607
+  order: 20260700
   journal: The Astrophysical Journal Letters
   status: Refereed paper
   bibcode: 2026ApJ..1006L..10S
 - authors: de Wit et al.
-  title: "J0404+1112: A 3-Hour Eclipsing White Dwarf-Brown Dwarf Probing Multiple Atmospheric Regimes"
-  period: June 2026
-  order: 202606
-  journal: arXiv e-prints
-  status: Preprint
-  bibcode: 2026arXiv260603737D
+  title: "J0404+1112: A 3 hr Eclipsing White Dwarf-Brown Dwarf Probing Multiple Atmospheric Regimes"
+  period: October 2026
+  order: 20261000
+  journal: "The Astrophysical Journal Letters, 1009, L40"
+  status: Refereed paper
+  bibcode: 2026ApJ..1009L..40D
 - authors: Wagner et al.
   title: "A Scalable Path to Astrometric Exomoon Discoveries with the Nautilus Space Observatory"
   period: June 2026
-  order: 202606
+  order: 20260600
   journal: arXiv e-prints
   status: Preprint
   bibcode: 2026arXiv260628523W
 - authors: O'Toole et al.
   title: "Disentangling auroral-, cloud-, and magnetic spot-driven variability in three early L dwarfs with HST/WFC3"
   period: May 2026
-  order: 202605
+  order: 20260500
   journal: Astronomy & Astrophysics
   status: Refereed paper
   bibcode: 2026A&A...710A..22O
+- authors: Lai et al.
+  title: "Dynamically Coupled Three-dimensional Cloud-Chemistry in Rapidly Rotating Irradiated Atmospheres: an Application to the Compact White Dwarf-Brown Dwarf system ZTFJ0038+2030"
+  period: October 2026
+  order: 20261013
+  journal: The Astrophysical Journal
+  status: Accepted for publication
+  bibcode: 2026arXiv261017714L
+- authors: Jiang et al.
+  title: "Searching for Circumplanetary Dust in the Cavity of the AB Aurigae Disk with ALMA"
+  period: October 2026
+  order: 20261027
+  journal: The Astrophysical Journal Letters
+  status: Accepted for publication
