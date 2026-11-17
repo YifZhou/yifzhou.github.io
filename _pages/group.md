@@ -162,6 +162,28 @@ comments: false
     </ul>
   </section>
 
+  <section class="people-section" aria-labelledby="group-photos">
+    <h2 id="group-photos">Group photos</h2>
+    <div class="people-grid group-photos">
+      <figure>
+        <img src="{{ base_path }}/images/group-dinner-2026.jpg" width="1024" height="768" alt="Group members gathered around a table at a Korean barbecue restaurant" loading="lazy">
+        <figcaption>Group dinner, May 2026</figcaption>
+      </figure>
+      <figure>
+        <img src="{{ base_path }}/images/brown-dwarf-talk-2025.jpg" width="1024" height="768" alt="A speaker presents an illustration of a brown dwarf being engulfed by its companion star" loading="lazy">
+        <figcaption>Talk on brown dwarf evolution, September 2025</figcaption>
+      </figure>
+      <figure>
+        <img src="{{ base_path }}/images/group-on-the-lawn-2025.jpg" width="1024" height="768" alt="Group members posing on the UVA Lawn with the Rotunda behind them" loading="lazy">
+        <figcaption>Group photo on the Lawn, April 2025</figcaption>
+      </figure>
+      <figure>
+        <img src="{{ base_path }}/images/group-picnic-2025.jpg" width="1024" height="768" alt="Group members sitting on picnic blankets in the shade on the UVA Lawn" loading="lazy">
+        <figcaption>Picnic on the Lawn, April 2025</figcaption>
+      </figure>
+    </div>
+  </section>
+
   <section class="people-section" id="postdoctoral-opportunities" aria-labelledby="postdoctoral-opportunities-title">
     <h2 id="postdoctoral-opportunities-title">Postdoctoral opportunities</h2>
     <p>UVA's Interconnected Cosmos Initiative (ICI) is recruiting postdoctoral researchers for interdisciplinary projects with two mentors. I welcome inquiries from applicants interested in planet formation and planetary atmospheres who would like to develop a project connecting these topics with another discipline.</p>
